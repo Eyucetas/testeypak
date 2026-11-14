@@ -1,0 +1,7 @@
+EYPAK - Yönetim panelsiz site
+
+ZIP dosyasına sağ tıklayıp Tümünü ayıkla seçeneğini kullanın.
+Ardından index.html dosyasına çift tıklayın.
+Kurulum veya sunucu gerekmez. Yönetim paneli dahil değildir.
+Google yazı tipleri, harita ve WhatsApp bağlantıları internet gerektirir.
+Bu paket hazırlanma anındaki ürünleri ve metinleri içerir.
